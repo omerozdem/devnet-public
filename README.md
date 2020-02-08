@@ -1,1 +1,1 @@
-# devnet-public
+# devnett-public
