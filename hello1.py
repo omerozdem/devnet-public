@@ -6,3 +6,4 @@ dict1['name']='Omer'
 dict1['surname']='Ozdemir'
 list1.append(dict1)
 print(list1)
+print("Hello World")
